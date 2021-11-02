@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VolodymyrSi
+- 👋 Hi, I’m Volodymyr Sinievych
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning React.
 - 📫 Wanna reach me? Here is my [LinkedIn](https://www.linkedin.com/in/volodymyr-sinievych/)
