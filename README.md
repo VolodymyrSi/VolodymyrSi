@@ -2,7 +2,7 @@
 
 👀 I’m interested in Front-end development
 
-🌱 I’m currently learning React.
+🌱 I’m currently learning Vue.
 
 📫 Wanna reach me? Here is my [LinkedIn](https://www.linkedin.com/in/volodymyr-sinievych/)
 
